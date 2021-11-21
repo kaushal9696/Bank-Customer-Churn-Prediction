@@ -62,9 +62,8 @@ Start the server
 
 ## Screenshots
 
-![Imbalance](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Imbalance](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Imbalance](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Imbalance](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Imbalance](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Imbalance](https://github.com/kaushal9696/Bank-Customer-Churn-Prediction/blob/main/Imbalance.png)
+![EDA](https://github.com/kaushal9696/Bank-Customer-Churn-Prediction/blob/main/EDA.png)
+![Comparision](https://github.com/kaushal9696/Bank-Customer-Churn-Prediction/blob/main/lineplot.png)
+![CM](https://github.com/kaushal9696/Bank-Customer-Churn-Prediction/blob/main/confusionMatrix.png)
 
