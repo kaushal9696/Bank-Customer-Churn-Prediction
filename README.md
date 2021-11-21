@@ -1,0 +1,70 @@
+
+# Customer Churn Prediction - Bank Customer
+
+Predicting if the customer will stay with the bank or leave based on lots of details and many features. With having high imbalance we need to predict most accuratly is if the customer will not stay with the bank, and its totally depands on the business problem.
+
+
+
+## Features
+
+- Exploratory data analysis
+- Data Cleaning
+- Outlier Detection
+- Data Pipeline
+- Data Scaling
+- Encoding Categorical Columns
+- Data Visualization
+- Comparing Different Machine Learning Model
+- ROC Curve
+- Precision Recall Curve
+- Deep Learning Model to see performance
+- Comapring Different metric ML vs DL method
+- Different Techniques to handle Imbalanced data
+- Different Tweaked Models to handle Imbalanced data 
+
+
+
+## Installation
+
+Install Requirments
+
+```bash
+pip install -r requirements.txt
+```
+    
+    
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  pip install -r requirements.txt
+```
+
+Start the server
+
+```bash
+  jupyter notebook
+```
+
+
+## Screenshots
+
+![Imbalance](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Imbalance](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Imbalance](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Imbalance](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Imbalance](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
